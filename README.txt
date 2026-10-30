@@ -1,4 +1,4 @@
-# Karnataka & Chennai Water Crisis Intelligence Platform
+# Karnataka & TamilNadu Water Crisis Intelligence Platform
 
 ## Part 1 — Rainfall Intelligence
 
@@ -65,7 +65,7 @@ Power BI → Interactive dashboard and visualization
 Part 1 established the rainfall intelligence layer.
 
 Part 2 will extend the project into water-crisis analysis using
-multiple datasets, SQL JOINs and additional Karnataka/Chennai
+multiple datasets, SQL JOINs and additional Karnataka/TamilNadu
 water-related indicators.
 
 
